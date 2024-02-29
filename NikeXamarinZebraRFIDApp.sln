@@ -8,6 +8,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikeXamarinZebraRFIDApp", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikeZebraRFIDScanning.Library", "NikeZebraRFIDScanning.Library\NikeZebraRFIDScanning.Library.csproj", "{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikeZebraRFIDMauiApp", "NikeZebraRFIDMauiApp\NikeZebraRFIDMauiApp.csproj", "{1988F081-30A1-4142-85A5-1F45B6066ACD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,12 @@ Global
 		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1988F081-30A1-4142-85A5-1F45B6066ACD}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
