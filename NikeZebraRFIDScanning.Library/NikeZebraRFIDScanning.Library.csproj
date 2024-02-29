@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+	  <Nullable>disable</Nullable>
+	  <LangVersion>8.0</LangVersion>
+	  
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Mono.android-arm64" Version="6.0.13.106" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Java.Interop">
+      <HintPath>..\Java.Interop\Java.Interop.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Android">
+      <HintPath>..\Mono.Android\Mono.Android.dll</HintPath>
+    </Reference>
+    <Reference Include="XamarinZebraRFID">
+      <HintPath>..\rfidsdk\XamarinZebraRFID.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

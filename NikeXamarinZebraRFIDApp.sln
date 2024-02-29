@@ -1,0 +1,40 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34526.213
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NikeXamarinZebraRFIDApp.Android", "NikeXamarinZebraRFIDApp.Android\NikeXamarinZebraRFIDApp.Android.csproj", "{806DC26B-C5BF-4D68-9848-637A535DB144}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikeXamarinZebraRFIDApp", "NikeXamarinZebraRFIDApp\NikeXamarinZebraRFIDApp.csproj", "{BD8112EB-DD24-4BD7-84D9-841CD11231DE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NikeZebraRFIDScanning.Library", "NikeZebraRFIDScanning.Library\NikeZebraRFIDScanning.Library.csproj", "{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{806DC26B-C5BF-4D68-9848-637A535DB144}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD8112EB-DD24-4BD7-84D9-841CD11231DE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40A0B3F3-F369-4166-8CF7-3CC6CA1EDB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CDF5E186-4509-4130-9BF2-516302F0D705}
+	EndGlobalSection
+EndGlobal
